@@ -1,0 +1,44 @@
+.color{
+    background-color: rgb(234, 246, 250);
+}
+.topnav{
+    padding: 20px;
+    margin: auto;
+}
+.social{
+    padding-top: 0px;
+    float: right;
+}
+.social #instagram, #twitter{
+    margin-right: 10px;
+}
+
+.garvitgoyal{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    font-stretch: wider;
+    margin-right: 30px;
+    padding-top: 5px;
+}
+.topnav-menu{
+    padding-top: 10px;
+    margin: auto;
+}
+.content{
+    overflow: auto;
+}
+.profile_image{
+    /* float: right; */
+    /* margin: 30px 150px 30px 30px; */
+}
+.aboutme{
+    /* float: left; */
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 10px;
+}
+.merer{
+    display: flex;
+    justify-content: center;
+}
